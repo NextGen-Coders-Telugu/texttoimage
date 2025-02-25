@@ -23,7 +23,7 @@ Text2Image is a powerful AI-powered image generation platform that allows users 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/text2image.git
+   https://github.com/pranay-deep970/texttoimage
    ```
 
 2. Navigate to the project directory:
