@@ -48,27 +48,11 @@ Text2Image is a powerful AI-powered image generation platform that allows users 
 - JavaScript
 - Remix Icons
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
 Have questions? Reach out to us:
 
-- Twitter: [@text2image](https://twitter.com/text2image)
-- Instagram: [@text2image](https://instagram.com/text2image)
-- Facebook: [@text2image](https://facebook.com/text2image)
+- Instagram: [@text2image](https://www.instagram.com/nextgen_coder_telugu/)
 
 ## 🙏 Acknowledgments
 
@@ -77,4 +61,4 @@ Have questions? Reach out to us:
 
 ---
 
-&copy; 2024 Text2Image. All rights reserved.
+&copy; 2025 Text2Image. All rights reserved.
