@@ -2,6 +2,8 @@
 
 ![Text2Image Logo](logo.png)
 
+test: https://www.blogger.com/blog/posts/5107498490713696521
+
 Text2Image is a powerful AI-powered image generation platform that allows users to create stunning visuals from text descriptions. With unlimited free generations and no usage restrictions, it's the perfect tool for creators, designers, and anyone looking to bring their imagination to life.
 
 ## 🌟 Features
